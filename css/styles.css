@@ -482,7 +482,7 @@ progress {
   content: "— ";
 }
 .img-fluid {
-  max-width: 90%;
+  max-width: 100%;
   height: auto;
 }
 .img-thumbnail {
